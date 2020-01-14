@@ -5,7 +5,9 @@
 
 This project is intended to provide students with anytime access to the introduction to Tableau workshop run by the Digital Scholarship Lab at Brock University.
 
+
 ![Tableau][tablogo]
+
 
 ### Details
 
