@@ -10,6 +10,14 @@ The introduction to Tableau workshop was developed for in person delivery, but w
 
 ![Tableau][tablogo]
 
+### The Tutorial
+
+The Full Video Tutorial is Available on YouTube Here: https://youtu.be/Qfmmj4Zqc5E
+
+Here are some highlights of what you'll learn!
+
+
+
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
