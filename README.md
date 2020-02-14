@@ -19,7 +19,7 @@ The Full Video Tutorial is Available on YouTube Here: https://youtu.be/Qfmmj4Zqc
 
 Here are some highlights of what you'll learn!
 
-![Dashboards](Profit challenge.gif)
+![Dashboards](assets/images/profitsdashboard.gif)
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
