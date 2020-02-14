@@ -3,8 +3,6 @@
 # Tableau Tutorial Project
 ##### By Thomas Lillo
 
-![Tableau][tablogo]
-
 ### Details
 
 This project provides students with 24/7 access to the Introduction to Tableau Workshop run by the Digital Scholarship Lab at Brock University. The introduction to Tableau workshop was created for in person delivery, but has also be converted into a youtube video to ensure that students can follow along anywhere, anytime. The video will be available on youtube and through the DSL website.
